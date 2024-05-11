@@ -65,7 +65,3 @@ Each form includes a hidden CSRF token that is verified against the session-stor
 </form>
 ```
 These enhancements ensure that the application is secure against common web vulnerabilities such as XSS and CSRF, complying with modern web security standards.
-
-```
-
-This README provides a comprehensive overview of the security implementations in your project, adhering to the specifications provided. The examples highlight key code segments that were added to ensure CSP, XSS, and CSRF defenses, making it easy to understand the security context for each enhancement.
