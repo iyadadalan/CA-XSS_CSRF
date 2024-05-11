@@ -1,7 +1,5 @@
 # CA-XSS_CSRF
-Here is an updated `README.md` file that reflects the changes made to the files within your project. This documentation will include details on the implementation of the Content Security Policy (CSP), Cross-Site Scripting (XSS) defense, and Cross-Site Request Forgery (CSRF) defense.
 
-```markdown
 # Project Security Enhancements
 
 This document outlines the security enhancements implemented in the project to comply with the best practices for web application security.
