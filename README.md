@@ -2,7 +2,11 @@
 
 # Project Security Enhancements
 
-This document outlines the security enhancements implemented in the project to comply with the best practices for web application security.
+This document outlines the security enhancements implemented in the project to comply with the best practices for web application security. The requirements are for this assignment are:
+
+1. Your web application must comply to same origin policy with content security policy (CSP) implementation.
+2. Implement XSS defense for your web application. Please refer to your handout on XSS Defense.
+3. Implement Better CSRF defenses for your web application. Refer to your handout on CSRF defenses.  
 
 ## Content Security Policy (CSP)
 
